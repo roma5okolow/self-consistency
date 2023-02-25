@@ -1,0 +1,1172 @@
+{"output": [" The days of the planet will become shorter, so the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Testing different building designs will make the engineers more experienced in building. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Light energy is converted into chemical energy, which signals the beginning of photosynthesis. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The car speed is a dependent variable, so the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The first object has lost 1/2 of its kinetic energy, and the second object has gained the same amount of potential energy. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" DFTD is an infectious, cell-cycle disease. This is because the disease spreads through bites and is only caused by parasites. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The behavior is most likely done to provide food for the winter months. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Option (a) is the most likely, since the trees would be there due to water flowing in the area. So the answer is (a).\n'''\n#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n#IMPORTING\nimport pygame\nimport random\nimport sys\npygame.init()\n\n#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n#GLOBAL VARIABLES\na = 0\nclock = pygame.time.Clock()\nblack = (0,0,0)\nwhite = (255,255,255)\ngrey = (128,128,128)\ndarkgrey = (64"], "answer": "(c)"}
+{"output": [" The population of hawks is most likely to decrease due to the hunting. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Copper is an element that is used in electrical wires. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Prokaryotic cells have no membrane-bound nucleus and mitochondria, eukaryotic cells have a membrane-bound nucleus and mitochondria. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The Sun's rays cause water particles to come to the surface. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The most likely temperature for 2:00 p.m. is 78\u00b0 F. If the sun is still out, the temperature will increase and hit 78\u00b0 F; if it is no longer sunny, the temperature will decrease and hit 41\u00b0 F. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The step of making a table for recording data should come first. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Carbon dioxide is the most abundant greenhouse gas in the lower atmosphere of Earth. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The freezing point of water is 0 degrees Celsius. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The new findings can be included in newer reports. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The flow of thermal energy is from hot (ice) to cold (tea). So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The price of boards will increase. The reason is that without planting tree seedlings, there will be less trees in the forest and less boards will be made. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The idea that a fly came from decaying meat was disproved because of discovery of microscope. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" Lysosomes are responsible for breaking down wastes, hence the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Option (b) is the right answer. The balanced chemical equation is 2H_{2}O -> 2H_{2} + O_{2}.\n\n"], "answer": "(b)"}
+{"output": [" Penguins are some of the most beautiful birds. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The temperature of the room is 73\u00b0F at all times. The temperature of the room will not affect the temperature of the water. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Clouds are made up of water vapour and ice particles, which are forms of water. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Evaporating is the process of changing from a liquid to a gas. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Answer (b) is correct, since flash flood warnings are issued for the Las Vegas area only during the month of August. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The temperature of object 1 is higher than the temperature of object 2, which is higher than the temperature of object 3. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Plankton take the energy from the sun and turn it into food for the animals that live in the ocean. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The tree branch floats on water because it is made of wood which is buoyant. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The students can most likely determine that the fossils were not discovered in the same layer. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The ability to exist as a liquid is the most important property for earth's organisms to survive. The answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Air is a mixture of gases and ice is a mixture of water and ice. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" (d) All of the options cause the scientific discovery to be useful; so the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (b), the equinox.\n\n"], "answer": "(a)"}
+{"output": [" Option (a) would cause the scientist to reevaluate the determination. Volcanism is not associated with a transform plate boundary. Option (c) would also cause the scientist to reevaluate the determination. Earthquakes originate from a point source at depth. Option (d) would not cause the scientist to reevaluate the determination.\n\n"], "answer": "(a)"}
+{"output": [" The sun is by far the biggest and brightest star of the stars in the universe. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The planets are arranged in order of increasing size, so the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Photosynthetic cells convert sunlight into food energy. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Hydraulic systems involve fluids in motion whereas pneumatic systems involve fluids at rest. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Hibernation is the process of storing food and fat to prepare the bear for the winter. Hence the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" Option (d) occurs once per day. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" Option (d), the mass of a carbon atom with 6 protons, 7 neutrons, and 6 electrons is 19. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" Since the sound wave travels through each medium with the same speed, the only factor that can change the speed of a sound wave is the distance between molecules in the medium. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Since there is an increase in kinetic energy and decrease in potential energy, the statement that best describes the changes that occur while a child is riding on a sled down a steep, snow-covered hill is (1).\n\n"], "answer": "(2)"}
+{"output": [" The best way to separate salt from water is with the use of a magnet. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The best way to determine the topography of the United States is via satellite, since it can be used to record the topography of the entire planet. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The stopwatch is the best tool to use because it can be used to measure how long it takes for a known quantity to change. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Homologous structures are used to determine how closely related organisms are. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The example of a learned behavior is (d).\n\n"], "answer": "(a)"}
+{"output": [" The total mass of water and oxygen is 20 g. The mass of oxygen gas is much less than 20 g. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Observing clouds forming is a way to show that air takes up space. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The Mount St. Helens volcano was formed due to a diverging boundary. So the answer is (b)\n\n"], "answer": "(a)"}
+{"output": [" The answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The images show a surface with distinctive, surface-cracking patterns. The images are from the Galileo spacecraft, and the distinctive patterns are produced by tectonic movements. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The farmer is using a nonrenewable natural resource. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" If the data is to be presented in a chart or graph, then the best suited form of recording is a chart or graph. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The device created is to transfer electric current from one wire to another. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Body weight is most influenced by the environment. This is because the amount of food an animal eats determines the amount of body weight it gains or loses.\n\n"], "answer": "(a)"}
+{"output": [" The greatest increase in gravitational force is when m_{1} is halved and the distance between m_{1} and m_{2} is doubled. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The products are NaOH, NaCl, and H2O.\n\n"], "answer": "(d)"}
+{"output": [" Leaves are the parts of the tree that spread out and scatter seeds. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The human lung is used for breathing and fish gill is used for breathing. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The volvox and paramecium both move toward light. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Sexual reproduction results in more genetic diversity because offspring have genetic information from both parents. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The hardness of W can be determined by X and Y, but not Z. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The factor that most likely accounts for high productivity of some areas in mountain valleys is evaporation rates. The evaporation rates in some areas, because of the high heat, will be higher than the evaporation rates of other areas. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (b). The salt in ocean water comes from the melting of glacial ice.\n\n"], "answer": "(b)"}
+{"output": [" Option (b) causes most of the rainstorms. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The moon is a dead planet, so the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The horseshoe magnet will pull out all the steel screws and leave behind all the aluminum screws. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The main impact of climate change on the ocean is through the ocean\u2019s pH. The higher the ocean\u2019s pH, the more acidic it is, and the more acidic the oceans are, the less oxygen they can dissolve. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Erosion causes a river to become deeper and wider. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The answer is nonliving parts of the environment. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" All the objects in our solar system give off their own light except for comets. The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The prokaryotic cell is lacking the membrane-bound nucleus, membrane-bound membrane-bound cytoplasm, and membrane-bound vacuoles. Only the eukaryotic cell has the membrane-bound nucleus, membrane-bound membrane-bound cytoplasm, and membrane-bound vacuoles. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" When a tadpole needs to blend in with its surroundings, it is most likely to be seen by predators. An adaptation that shortens the time of a tadpole's metamorphosis would be useful here, so the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Option (b), an unbalanced force causes acceleration. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Paper cups and newspapers will decompose the fastest. So the answer is (b) and (c).\n\n"], "answer": "(a)"}
+{"output": [" Photosynthesis takes the longest time to complete. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Animals that live deep in the ocean need to see well in order to move through the water and to find their prey. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" At -5\u00b0C, water is in a solid state. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The light bulb was invented by using reflected light. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" The independent variable is the amount of fertilizer.\n\n"], "answer": "(d)"}
+{"output": [" The period of rotation for Earth is (a), 24 hours. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Technology used on submarines allowed scientists to find the exact mechanism that caused the continents to move. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Option (a) is a scientific hypothesis. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Momentum is mass x velocity. Since the initial velocity is 43 m/s, the final velocity is 40 m/s, so the momentum is (43 x 0.15 = 6.9 kg) x (40 m/s) = 2.6 kg x m/s. The answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Somatic cell mutations can lead to tumors, which lead to harm to the organism. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The other planets and Pluto can be seen with the naked eye on a clear night. The answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The function of a stem is to transport water and nutrients throughout the plant, so the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The salt and pepper are dissolved in water. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The best way to be sure the paper sailboats will float without tipping over in the water is to test the strength of the materials used to construct them. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The carbon monoxide detector is designed to tell the residents when a dangerous gas is present. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" States of matter are not properties of matter, so the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" Experiments show that mice can learn to press a lever in order to acquire food. This learning ability can help mice survive in the wild by allowing them to alter their environment in beneficial ways. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" (a) and (d) are correct.\n\n"], "answer": "(b)"}
+{"output": [" Plant cells have vacuoles, chloroplasts, and a cell wall, while animal cells have a nucleus, mitochondria, and a cell membrane. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The ball reflects light, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Electric cars use no fossil fuels, and can be recharged at any charging station. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (c). The rod gives up electrons to the fur, and the fur gives up protons to the rod, leaving the rod with a negative charge.\n\n"], "answer": "(d)"}
+{"output": [" Lasers are used to illuminate operating fields, so the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The troposphere is the layer of the atmosphere that is closest to the earth, so it has the highest altitude, the greatest density, and the coldest temperature. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The tweezers are being used to pick up the mold. The magnifying glass is being used to examine the item under a microscope. Both must be kept away from the bread to prevent cross-contamination. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" ADH causes you to lose water from your body, which will make you get thirsty. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Robert neutralized the vinegar with the ammonia solution. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The tapeworm benefits and helps the dog to survive. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Since the bears have lost their fear of humans, they have become more like herbivores. This means the bears have inherited their ancestors' traits and since bears are herbivores, they will eat plants. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Both Earth and the moon have oceans, so the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" If a pure dominant plant with round seeds is crossed with a plant with wrinkled seeds, the dominant trait in the pollen will not be expressed in the offspring plant, so the offspring plant will have round seeds. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The best equipment for this task is the litmus paper. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" When cold air is at the tops of mountains, the air is considered to be less dense than warmer air. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" When table salt and water are mixed, table salt dissolved in water; therefore table salt is the best conductor of electricity. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" A plant specifically designed to convert electrical energy to heat energy is a coal-powered plant. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The atom gains an electron, so the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" The stream velocity decreases, so the amount of material carried downstream will increase. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Rocks are made up of minerals. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The average speed is the distance divided by the time, i.e., 840km / 4h = 210 km/h. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" To help scientists in conservation efforts, the importance of having a standardized taxonomic classification system is to determine the relatedness of organisms. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The model should have the ability to revolve around the central ball to demonstrate the phenomenon best. So the answer is (a). \n\n"], "answer": "(a)"}
+{"output": [" Option (b), the truck will most likely roll faster when rolling over a smooth surface. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" Option (d), creating recreational ponds and lakes, is one of the benefits of surface mining. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The rate of rotation of the Earth's surface is faster at the poles than at the equator. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" Option (b), Antibodies attach to an invading virus as a target marker. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The function of nerve cells is to send signals to the brain. If a cell stops sending signals, the cell is no longer functioning. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Nitrogen is the most abundant element in living things, so the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (b), evaporation.\n\n"], "answer": "(b)"}
+{"output": [" Option (1) is not the nutrient source. Option (2) is a waste product of cellular respiration. Option (3) is a waste product of photosynthesis. The answer is (4).\n\n"], "answer": "(4)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" A child would not inherit dimples from one or both of its parents. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Option (b), all are metals. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" Soil texture is improved by the compaction of rock layers. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The weight is not affected by the change in gravity. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Option (b) is the most likely to be destroyed by a hurricane. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (2).\n\n"], "answer": "(2)"}
+{"output": [" The process Pat is seeing through the microscope is the formation of a crystal, as the water evaporates, it is forming a collection of cubic structures. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" What genes determine tulip petal color? The answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The most important test for safety purposes is the maximum load the bridge can support. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Elements on the left are those with fewer protons, hence the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Mary Anderson invented the first windshield wiper to make windshields easier to clean. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" More mistakes are made during the assembly, so the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The movement of tectonic plates is most directly related to the water cycle. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The reaction is exothermic because energy is released. The water droplets are melting by absorbing heat from the beaker. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" (a) and (b) can be produced using petroleum as a raw material. So the answer is (a) and (b).\n\n"], "answer": "(a)"}
+{"output": [" Option (c) is the correct answer because the Earth has been forming new mountains for billions of years.\n\n"], "answer": "(c)"}
+{"output": [" Animals need sea water to survive, so the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" A red giant star is larger than the other suns because it has greater density and gravity. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The number of valence electrons of a non-metal atom is equal to the number of protons in the atom. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The brain is mostly made up of nerve tissue, so the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The only chemical that it does not include is potassium. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The function of a light bulb is to produce light, so the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" A plateau is formed by weathering, erosion of rock and land uplift. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" When vinegar and baking soda are mixed, there is a chemical reaction that turns the mixture from an acid to an alkali. This changes the chemical energy, and the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The floor feels colder than the carpet because it is better at insulating against cold. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Dolphins have a body shape that helps them to survive in the ocean. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The complementary base is adenine. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" A chemical change happens when the state of matter of the substance changes. Here we first had ice, then it melted into water, then it turned into a liquid, so it's a chemical change. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The nervous system protects the brain from getting bumped. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" Option (c), sugar dissolving in water. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" It is always better to recycle used goods than to throw them away. The answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" Option (a) will decay the fastest because it is made of glass. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The fish will find another food source, and the population will be unable to sustain itself. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" Scientists present the results of their investigations to others for review because they need to be informed about the scientific process. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" (a) Biofuel is produced from plants. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The mass of an electron is much less than the mass of a nucleus and a proton, so the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (a) and (b).\n\n"], "answer": "(c)"}
+{"output": [" Option (d), meat, fish, and bread.\n\n"], "answer": "(b)"}
+{"output": [" The handle of a pan is often coated in rubber because rubber is nonstick. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The force that makes the car stop moving is the same force that makes the car move. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Option (d), 2C_{2}H_{6} + 7O_{2} -> 4CO_{2} + 6H_{2}O. This is because the law of conservation of mass, which states that the total mass of reactants must be equal to the total mass of products, must always be true.\n\n"], "answer": "(d)"}
+{"output": [" Most of the radiation coming from the sun is in the form of long wavelengths, so the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" (d) because it leaks onto the ground and contaminates soil and ground water.\n\n"], "answer": "(b)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Option (d), reptiles have been on earth for the longest period of time. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" Bromine is a liquid at room temperature. Oxygen is a gas at room temperature. Room temperature is 25 degrees Celsius.\n\n"], "answer": "(a)"}
+{"output": [" The fungus is feeding on the tree, but the fungus is also feeding the tree. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The formula for MgBr2 is Mg_{2}Br_{2}. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Leopard's opening chant suggests that he is confident. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The best example of an object that refracts light is the eyeglasses because they bend the light rays. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" If a decrease in temperature causes a decrease in biodiversity, this will have a positive impact on the nutrients available in the topsoil. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The process of compaction and recrystallization are both included in the formation of both metamorphic and sedimentary rock. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The water on the sides of the glass is water vapor because the temperature of the water is lower than the temperature of the room. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Phosphorous is an essential part of cellular respiration, limiting the amount of phosphorous available to a cell culture would decrease the amount of cellular energy produced. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The velocity remains positive but the acceleration becomes negative. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" As the algae decays, it uses up large amounts of oxygen along the coastline. The bottom dwellers will die and fish will swim away. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Mass is the factor that distinguishes the velocity of the ball from the speed of the ball. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" When an animal population moves a long distance to another area in order to survive it is called migration. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" Beavers use their webbed hind feet for swimming. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" A line graph would be most appropriate for showing the trend of cars traveling at different speeds. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The best time to observe the shadow of a person is around 12:00 - 13:00 in the afternoon. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The effect of the hydrosphere on the lithosphere is evaporation. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The dependent variable is number of fruits, because that\u2019s the variable being measured. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The students can reduce the possibility of uncontrolled variables affecting their data by collecting rainfall data while it is raining. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The function of sunglasses is to reflect the light rays away from the eyes to prevent the light rays from causing damage to the eyes. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" If the Moon was about the same size and mass of Earth, then the gravitational pull between the two would be about the same. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The student wants to investigate a process that occurs over several years, not a process that occurs over one year. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" Option (b), smaller amounts of water evaporate in the cool morning. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" When ice or solid water freezes, it changes shape with its container. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (d), air, water and minerals combined.\n\n"], "answer": "(c)"}
+{"output": [" Scientific laws do not change often. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The mass of the object is what affects the acceleration. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The tea is a powder and settles to the bottom of the container. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The high temperature of the star is what enables the nuclear fusion process to occur. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The mass of the saltwater mixture is 1,000 grams.\n\n"], "answer": "(c)"}
+{"output": [" The most important way an artificial reef may support the development of a complex ecosystem is by providing habitat for marine mammals and plants. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The chocolate chips melted because of heat transfer from the environment to the chocolate chips. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The best way to determine whether two people are related is to compare their genes. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (b), the wooden log is completely changed into heat energy.\n\n"], "answer": "(c)"}
+{"output": [" Average acceleration is the change in velocity over the change in time. Since they increased their speed from 20 km/h to 26 km/h (d), the average acceleration is 6.0 km/h^2. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Option (c), rubber is a nonconductor. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The amount of air in each ball is the same. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The best way to determine the type of popcorn that produces the greatest number of popped kernels is to design an experiment that tests multiple types of popcorn using repeated trials, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The energy of the worker was totally absorbed by the wall and no energy escaped. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Option (d) is the most effective way to protect the natural habitats of animals. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Ice can change Earth's surface by both (a) and (b). So the answer is (a and b).\n\n"], "answer": "(a)"}
+{"output": [" Option (b) is not a renewable resource; it is a non-renewable resource. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The ball was not thrown straight up. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The effect of gravity is to slow the object down. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The salt is the solute and water is the solvent. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The Alps and Appalachians are formed from folded rock, and the Himalayas from plate tectonics. So the answer is (a) and (c).\n\n"], "answer": "(a)"}
+{"output": [" The student should check the bread each day to see if the mold is forming. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The sun is the main source of energy for all of the organisms in most food chains. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The statement is an observation made from predictions. The bird is an example of a prediction made from data samples. The students told their teacher that the bird had a nest in that bush, which is an inference made from observations. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" Option (c). Hydropower is a renewable resource but coal is not. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The Internet allows people to access information from many locations. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" When a chemical reaction is exothermic, the heat produced by the reaction is released to the surroundings. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Shelves are an example of making the wall stronger. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The deer population of the region without predators is expected to increase as other herbivores move into the region. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The oil companies will benefit most because they will be able to sell more gasoline. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The movement mechanism is triggered by the stimulus of magnetism. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Option (d), there are 2 elements in the compound Mg(OH)2, oxygen and hydrogen. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The parents have 8 arms each. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (b), because when a person starts to jog, the stored energy changes to motion and heat.\n\n"], "answer": "(b)"}
+{"output": [" If a spill occurs, the most important thing to do is to clean up the spill. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Option (a) is the result of eliminating air pollution, which is the result of burning nonrenewable energy, which is the result of producing more paper, which is the result of more trees being cut down for paper production. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Rubbing the sample on a piece of unglazed clay tile will produce a red or rusty streak. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The order of coldest to hottest is (a) ice, water, steam.\n\n"], "answer": "(a)"}
+{"output": [" Leave the area exactly as they found it. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The number of predators are most likely the cause for the population decrease of this butterfly. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The best way to be able to repeat an experiment is to keep a record of all procedures. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The production of geothermal energy is strongly related to the temperature of the ground. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The masses cannot be compared without a balance. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" It provides the general climate, which is the best information. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Population is the most likely cause of these cities having different climates. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The force of the hammer was transmitted as a longitudinal wave. So option (c) is the correct answer.\n\n"], "answer": "(c)"}
+{"output": [" Option (d), oil spill is the best example of a slow change in ecosystems. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The function of a thermometer is to measure temperature. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Wind most likely produces the slowest changes on Earth. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The drop in ocean salinity could have disrupted marine ecosystems. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The most likely reason is that the puppy was more active than the others. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The component of the cell membrane that functions to actively transport molecules into the cell is the phospholipid. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The particles in the steam from a cup of coffee have the lowest amount of kinetic energy. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" As the prevailing winds blow from the oceans to the shore, the ocean temperature will be colder than the land temperature. The answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The mass of an atom is the same as the mass of its nucleus. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" An increase in the population of tertiary consumers (such as wolves) will decrease the populations of small prey, such as rodents. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" Balsam fir trees have similar needle length because of the amount of sunlight that they receive. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The distance to be travelled is 200 km, and the speed at which it is travelling is 800 km/h. So the time taken to travel 200 km will be 200/800 = 0.25 hours. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" Hydroelectric power plants produce electricity, but they also use clean water, which is responsible for the change in the pH levels. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The energy production from coal causes the most air pollution. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Curly hair is an inheritable characteristic; one has curly hair only if one's parents have curly hair. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The charge of an ion is based on the number of protons and electrons in the atom. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Tame animals are more likely to stay away from humans than wild animals, so the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" When the temperature of water changes from 10\u00b0 Celsius to -10\u00b0 Celsius, from a solid into a liquid. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" Plants release oxygen, which animals need to live. So (c) is the answer.\n\n"], "answer": "(a)"}
+{"output": [" Option (d), the mosquito habitat is not destroyed by a tornado. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The process of liquid water changing to a vapor is called evaporation. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" We are using a nonrenewable source of energy when we heat with wood, wash vegetables before cooking, or drive gas-powered automobiles. So the answer is (a), (b), or (c).\n\n"], "answer": "(c)"}
+{"output": [" Option (b), water molecules break apart into individual water atoms. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" Option (b), road is not a transportation pathway. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (b), a bulldozer pushing soil is the best example of physical weathering.\n\n"], "answer": "(c)"}
+{"output": [" The answer is (b), a mountain range.\n\n"], "answer": "(b)"}
+{"output": [" Both a mixture and a solution are two different substances that can be separated. The answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Andy Green used the Doppler effect to measure the speed of a jet engine, so the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Jeremy walked 3 km/h for 30 minutes, then he walked 10 km in that time. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (a) and (b).\n\n"], "answer": "(b)"}
+{"output": [" Option (d), the northern half of Earth is tilted toward the Sun in summer, which means the northern hemisphere has more sunlight than the southern hemisphere. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Erosion of riverbanks can reduce the risk of floodings in the future. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The average speed of the bicycle is 2 m/s. The distance the bicycle has to travel is 100 m. Hence the time required for the bicycle to travel 100 m is 100/2 = 50 s. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The result of the second class is most likely different because they used a different orange juice. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Option (b) is the major process of rock formation on volcanoes. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" Option (b) is true; a star with twice the mass as the Sun will use its fuel source much more quickly. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Since the bees are decreasing, the moths will start pollinating the blue flowers. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The atomic mass is the sum of the protons and neutrons. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" Both plants and animals process nutrients by breaking them down into usable forms. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The current will be cut in half. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The high turbidity levels are due to a lot of particles suspended in the water, so the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The new light bulbs use less electricity, so the amount of money saved on the electricity bill for the school will be more. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" New evidence indicates that our solar system may have formed when short-lived, massive stars in a nebula exploded. This means that the hypothesis that our solar system resulted from the slow condensation of a cloud of dust and gas is no longer valid, and it is more likely that the hypothesis that our solar system formed from a massive star exploding is valid. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (b), because the leaves of a sunflower collect most of the sunlight needed to make food. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Chlorophyll is used in the process of photosynthesis to capture light energy. The answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The wolf is a predator animal. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The statement that paper products come from wood was changed, so the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" An aphid is a first-level consumer, since it consumes the plant material that it is living on. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The increase in temperature causes a decrease in the amount of oxygen. The increase in temperature causes an increase in the number of bacteria. Water temperatures typically increase in the summer. So the answer is (a) and (c).\n\n"], "answer": "(b)"}
+{"output": [" Planting the grasses as close together as possible will ensure that there will be at least some hay crop after two years. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The pencil would not be helpful for Ravi in sending a message to his friend. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Option (b) is not correct as the soil is made up of sand and clay; it is not a mixture of sand, clay and pebbles. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The cell walls are to contain the parts of the cell. So the answer is (c)\n\n"], "answer": "(b)"}
+{"output": [" The plant material is removed from the ecosystem, so the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" Glassware and filters are reusable, so the answer is (a) and (b).\n\n"], "answer": "(a)"}
+{"output": [" The message travels from the eyes to the brain. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (d). The activity of the digestive system is regulated by the nervous system. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" When the weather is colder, a mammal most likely will adapt to this change by growing a thicker coat of fur. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Option (b) is not a benefit of microorganisms, they do not help make antibiotics. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The heat is being transferred from the flame of the gas stove to the pot via conduction. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" There is no control group, so the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The first law is about an object at rest. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Option (d) is made of atoms. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Since the object is accelerating at twice the rate of the force, once the force is doubled, the rate of acceleration will also be doubled, i.e. 6 m/s^2. So the answer is (2).\n\n"], "answer": "(3)"}
+{"output": [" The choice of food that Sandy gives his dog is the most manipulated variable in his investigation. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" His ability to play the drums is most likely where he inherited the trait. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" Wearing safety goggles is the safest practice during experiments. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The winner experienced less water resistance. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The density of the water is greater than that of the ice. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The reason why sand retains the largest amount of energy from the Sun is because it is the closest to the Earth's surface. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Decrease in dissolved carbon dioxide (a) will occur during an El Ni\u00f1o year. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Erosion is the process where the roots of plants break through cracks in the driveway, leaving the driveway to break. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The more times the experiment is performed, the more accurate the results will be. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The student is studying nonrenewable resources; therefore, the answer is (a) and (b).\n\n"], "answer": "(a)"}
+{"output": [" The beaver activity has a positive effect on the habitat of other animals by constructing a dam to make ponds for lodges. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The scientist categorized the rock as extrusive because it was formed from cooling magma. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Option (a) will form new soil the fastest, as the log will decay at a faster rate than the other options. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The glue would not be used to join the boards together. It would be used to hold the boards together. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The difference between these two rock types is the origin of their composition. Basalt is formed from cooling lava on the earth's surface, while gabbro is formed from cooling magma under the ground. The answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" As the temperature increases, the helium in the balloons expands. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The amount of trees required for running a newspaper is very less when compared to a automobile manufacturing or home building industry. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The product of a reaction between these two elements is Al_{2}O_{3}, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (d), because the ecosystem must be stable and stable ecosystems require human intervention.\n\n'''\n\nimport unittest\n\nclass TestQs(unittest.TestCase):\n    def test1(self):\n        self.assertEqual(len(qs), 40)\n    def test2(self):\n        self.assertEqual(qs[0], q1)\n    def test3(self):\n        self.assertEqual(qs[39], q40)\n\n'''\nclass Question:\n    def __init__(self"], "answer": "(c)"}
+{"output": [" The rock sample is a mixture of different chemicals. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" The average speed is the distance traveled divided by the time taken. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The most accurate way to record differences is to take a photograph of each leaf. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Only planets, stars, and comets can shine as a result of reflected light. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The best solution to correct this design problem would be to increase the thickness of insulation. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The student will most likely use an observation to collect the data. So the answer is (c).\n\"\"\"\n\nimport re\n\ndef tokenize(text):\n    return [x for x in re.split(r'(?:(?<=[^\\w\\s])\\W(?=[^\\w\\s])|\\W(?=[^\\w]))', text) if x.strip()]\n\ndef stem(words):\n    return [x[:-3] for x in words if x.endswith('ing')]\n\ndef main():\n"], "answer": "(c)"}
+{"output": [" Option (a), K -> K^+ causes loss of a proton. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" Adding plants increases the oxygen in the tank. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Observing the color of the apple pieces is the best way to demonstrate that the mass of the whole apple is equal to the mass of the apple pieces. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Erosion is slower than uplift at El Cajon Pass, so the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (a). The nocturnal animals can see insects that light up at night, and they can eat the glowing insects.\n\n"], "answer": "(b)"}
+{"output": [" A lion passes on scars to its offspring, so the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Plants are the primary producers in an ecosystem. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Options (a) and (b) are examples of physical changes. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" All the planets but Earth orbit in the same direction. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Option (d) is not correct. The energy is lost as heat. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The piles of rocky debris provide the best evidence that glaciers have passed over the landscape. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Bottled water is the most important thing each student needs to carry on the field trip. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Water has a low specific heat and can be changed from a liquid to a solid; so the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" The shell shows that the mountain was once above sea level; the mountain was once covered by water. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Option (a) is the only one which increased heat production. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Option (a), the man moves farther and faster than the boy.\n\n"], "answer": "(b)"}
+{"output": [" Option (d), 18 is the atomic number of fluorine, and the least reactive element. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Option (c) would end Earth's tectonic activity.\n\n"], "answer": "(c)"}
+{"output": [" The answer here is (c), meltwater increases and the glacier size decreases.\n\n"], "answer": "(b)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Eating with dirty hands is a bad health habit, because it is not hygienic. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" A space probe is an unpiloted spacecraft designed to gather information while orbiting planets other than Earth. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Since the plant is a green plant, its photosynthetic process converts atmospheric carbon dioxide into oxygen and water. Since more water is available, the plant will grow faster, causing more oxygen to be released. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" For two copper atoms to be the same, they must be the same element. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Density is the only property that can be measured to be zero. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Option (a), changing data to fit expected results, will not be included in scientific inquiry. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" When a warm moist air mass collides with a cold air mass, the winds will die down, the temperatures increase, and clouds begin to form. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The longest period of observation for (a) would be how long the eggs take to hatch. The longest period of observation for (b) would be how long the paint takes to fade to a lighter color. The longest period of observation for (c) would be how long it takes for the apples to ripen on the tree. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The Earth tilts on its axis and rotates on its axis. So the answer is (a) and (b).\n\n"], "answer": "(a)"}
+{"output": [" Her average speed was 5 m/s. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The average speed during those two hours is ((80 + 100) / 2) = 90 km/h. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Similar to the way a glacier makes a valley, the way a tree root splits a rock in half is most similar. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" If a liquid is cooled below 0\u00b0C, it will become a solid. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The first step is to sort the materials. The answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (b), observing and recording behaviors of animals in their natural habitat.\n\n"], "answer": "(b)"}
+{"output": [" All of the options need to get nutrients from a transport system. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" Frictional force is the force that resists motion. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The amount of gravitational attraction between the Moon and an astronaut is inversely proportional to the astronaut's height. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Option (c), the switch flips the current direction to stop and start the flow of current. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The nocturnal predators would most likely develop sharp vision and hearing over time to survive in the wild. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" There is less rainfall in the desert, which reduces the formation of fog. There is also less water vapor in the desert air. So the answer is (a) and (c).\n\n"], "answer": "(c)"}
+{"output": [" Fertilizers should not be used by farmers because they are harmful to the environment. The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Option (d), the average number of sunny days per year is 285. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" If the force used to push a cart increases, the acceleration will increase. So the answer is (2).\n\n"], "answer": "(2)"}
+{"output": [" When there is a low-pressure weather system, clouds are formed due to the warm temperatures. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Option (d), a frosted window glass pane will scatter more light, because it is translucent. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Although the results supported the hypothesis, the student should still confirm the results using a different procedure. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The total number of atoms stays the same during a chemical reaction. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Crop rotation disrupts the life cycle of pests. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Nitrogen replaces oxygen in the water. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Option (b), changing the diet of the sea lions, is the most likely cause for the Steller sea lion population to increase. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" New evidence will modify the old theory, but it will not replace it. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The fish and dinosaur were both fossils at different times. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" Option (b), increase in animal populations. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The statement is correct because it is based on observation. It is not an opinion. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (a), other support for the research study finding is important in deciding if the research study is correct.\n\n"], "answer": "(d)"}
+{"output": [" The lower mantle is under more pressure than the upper mantle, which is why it is more rigid and dense than the upper mantle. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The oxygen is a solute that is dissolved in the water. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Option (b), liquid water is the only state of matter which has a definite volume and shape. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The principle is that there is little water in the atmosphere of Earth. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Option (c) is the answer, because the progress in the scientific method led to progress in the understanding of the role of DNA and genes in trait inheritance.\n\n"], "answer": "(a)"}
+{"output": [" Sprinklers are best used to save water in summer, not in the middle of the day. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Pumping large amounts of water from an underground limestone area will most likely cause the land above the limestone to sink. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The student's statement is an example of a conclusion; that is, the substance in the test tube is undergoing a chemical change. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The atmosphere is heated by the energy, so the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" An adaptation would be useful that allows tadpoles to go through a shortened period of metamorphosis when they need to blend in with their surroundings.\n\n"], "answer": "(b)"}
+{"output": [" Since the experiment is organized by plant height, the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" The distance that an airplane travels in 2 hours is more than 1 meter, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The tree in Michigan is 2.5 times larger than the typical white pine tree. This is because the tree in Michigan has reached the level of a mature tree, where it has had more time to grow. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" Since volume is independent of the container, only the shape of the sample is needed to determine the state of the sample. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The hawks would die from eating the insects. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The water molecules hit by the food coloring molecules cause the water molecules to spread evenly throughout the beaker of water, so the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The object (b) is translucent, because it reflects the light that is coming from the outside world. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Plants and human cells both use mitochondria to release energy from sugars. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The experiment must be done the same way regardless of the type of soap. The answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" When a substance has low thermal conductivity, it will be good for use as insulation. Low thermal conductivity: gases, liquids, and solids that do not conduct heat well. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The scientist found that the most common number of eggs laid in a year is three. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The students likely need to correctly label all the data in their charts and tables. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The acid solution must be neutralized before it can be poured down a sink. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Undergound coal mining is less harmful to the environment because it does not disturb the overlying land. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The student should use the second boiling point as the new boiling point is closer to the final boiling point. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Option (a) is a chemical change. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The organs and organ systems begin to develop during childhood. So the answer is (3).\n\n"], "answer": "(2)"}
+{"output": [" The drug should be discontinued to prevent side effects. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The function of a balance is to measure weight. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The original substances had different densities. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Fossils do not occur only in sedimentary rocks. Different organisms usually inhabit specific environments. The answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Heat is the only type of energy that is transferred from the tree branches to the campfire. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" She has had other offspring, which means that she is able to carry and deliver many embryos. This means she is the most likely to be the natural mother that can produce many embryos to be transferred to other females. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The amount of water that evaporated was: 150 - 148.5 = 1.5 mL. If the density is 1.0 g/mL, this is equivalent to 1.5 g. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Air pressure is higher in the valley than on the mountain top. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The number of predators would most likely limit the number of mice in an area. So the answer is (3).\n\n"], "answer": "(3)"}
+{"output": [" The discovery was prompted by health concerns over the effects of ultraviolet radiation. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The two sheets will fall at the same rate. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" An acid in the stomach is able to change the chemical structure of food. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Sexual reproduction is the only one of the four listed. Hence the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The correct order is (a), (b) and (c) are incorrect.\n\n"], "answer": "(a)"}
+{"output": [" A solution is a mixture whose components are similar throughout. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The cart will run faster, as the weight of the load is the same but the force required to move the cart is less. So the answer is (2).\n\n"], "answer": "(2)"}
+{"output": [" The squirrels gather acorns, bury them in the soil, and recycle nutrients in the soil. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Option (c), about 97% of Earth's water is ocean water. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" (c) reduces the number of trees cut down. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Option (a), number of kilowatts produced per home, is the answer.\n\n"], "answer": "(b)"}
+{"output": [" Option (a) is the reason why water from an aquifer is more likely to be cleaner than water from other sources. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The best way to compare results is by testing each object in groups. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Worms have a tube-like body, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Pie charts are used to display relative proportions, while bar graphs are used to display absolute quantities. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" The student can increase the temperature of the water to speed up the reaction; this will cause the sugar to melt faster. So the answer is (1).\n\n"], "answer": "(3)"}
+{"output": [" An example of a trade-off is option (a), the performance of a car's engine is decreased to increase its gas mileage. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The astronomer should send an article to a peer-reviewed astronomy journal. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Option (a) is the reason why sandbars form in rivers. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" As wind causes changes to weather conditions, a single observation of wind speed is best described as an indication of a future weather condition. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" What would be the most likely effect for the gulf sturgeon population if dams were built along coastal rivers? (c) The population of the sturgeons would decrease due to loss of habitat. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The parent's color, shape, and size determines what a child will look like. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Both gravity and magnetism are natural forces. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The removal of heavy metals from the water stream is one of the primary objectives of the entire water treatment process, so the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" New evidence caused revisions. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" An increase in the amount of prey available would help an organism's niche in a positive way. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The result of an infection caused by a cut in the skin is the direct result of foreign cell invasion. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The plant is a seedless vascular plant because it has a flat gametophyte. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The balloon was heated and expanded, so the molecules inside the balloon gained energy from the heat, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The traits inherited by a bacterium is different from the single parent. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The scientist would suggest using renewable sources of energy because they are safer for the environment, cheaper to develop, easier to transport and produce more energy. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" If a scientist wants to dig for dinosaur bones in a dry river bed, he would have to know the depth of the river bed when it rained. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" Tori observed that the grasshopper was smaller than the leaf. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The skin regulates body temperature, so the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Option (c) requires the use of a renewable source of energy, wind. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Touch and sight are the BEST ways to measure hair length. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" We can test to see if marigolds really do repel whiteflies by counting the number of whiteflies on peppers before and after planting marigolds. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" An animal with dry skin and scales is most likely a reptile. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Cells without a nucleus cannot pass on genetic information to the next generation. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The statement is acceptable because the source of the sediments are also identified. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" A design activity is more valid if it is done in a laboratory. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The process of photosynthesis depends on the presence of sunlight and carbon dioxide in the atmosphere, so this process would be possible only after the change in the atmosphere. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The largest organ in the human body is the liver, which is responsible for filtering out toxins from the blood. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The cork sheet is supposed to be floating, therefore the weight of the sheet should not be too heavy. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" If block A does not transfer heat to the metal block, and is not a good conductor, then it must be non-magnetic. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Pumice is formed from the rapid cooling of magma and contains air pockets. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The plants with holes in their leaves are not receiving necessary nutrients from the soil, so she should add fertilizer to the soil. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The function of cellular respiration is to take carbon dioxide out of the bloodstream, which is not needed for digesting food. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" In this case, the water is the solvent. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Adding salt to the water before it is frozen.\n\n"], "answer": "(b)"}
+{"output": [" The answer is (d). The x-axis is a horizontal line on the graph, and is used to show the independent variables.\n\n"], "answer": "(d)"}
+{"output": [" Both heating and pressure and uplift and erosion are needed for a sedimentary rock to change into a metamorphic rock. So the answer is (b) and (d).\n\n"], "answer": "(b)"}
+{"output": [" Place the thermometer in the water, as this will provide a more accurate reading than the other options. So the answer is (c).\n\n\"\"\"\n\n\"\"\"\n\nimport sys\n\ninput_passage = sys.argv[1]\n\ndef passage_analysis(input_passage):\n    pass\n\npassage_analysis(input_passage)\n\n\"\"\"\n\nimport sys\n\ninput_passage = sys.argv[1]\n\ndef passage_analysis(input_passage):\n    word_count = 0\n    punctuation = 0\n   "], "answer": "(d)"}
+{"output": [" Water is the universal solvent, so the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" Option (c) is correct, as the Sun rotates on its axis, then the Earth is rotating around the Sun, then the Moon is revolving around the Earth. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Both have woody bark. The stem of a tree and the stem of a flower have woody bark. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The result of a glacier is the formation of a mountain range. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" A map is a two dimensional representation of a two dimensional surface, so the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Protons are attracted to positively-charged particles in an atom. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The mass of lead is 5.0 grams, so q = 5.0 \\times 0.129 \\times (35 - 25) = 1.35 J. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The increase in the deer population will cause an overpopulation of the grassland ecosystem. This will lead to an increase in biodiversity, but a decrease in sustainability. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" Option (a), temperature is not affected by the evaporation process. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" Changing the experimental procedures is the best way to get the scientific community to accept a new hypothesis. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The total mass of the contents of the test tube will not change after the reaction occurs. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The invention of the first hearing aid is tied to the invention of the telephone. The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The investigation is completely under the student's control, so the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The average power generated is 66 W. so the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The mass number is the total number of protons and neutrons in an atom. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Option (b) and (d) are correct. The subunits of DNA are nucleotides, which are made up of nucleic acids, which are the subunits of DNA. The subunits of amino acids are amino acids, which are made up of protein. So the answer is (b) and (d).\n\n"], "answer": "(b)"}
+{"output": [" Insect defoliation is an abiotic condition that affects oak tree decline. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The probability that one of their children will have blue eyes is: (1/2)(1/2) + (1/2)(1/2) = (1/4) + (1/4) = (1/2) = 50%. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" Xylem and phloem contain half the DNA from one parent plant. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (b), Saturn.\n\n"], "answer": "(c)"}
+{"output": [" The force of gravity moves the fork toward the floor. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Option (a) is not a living thing. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Fossils formed on land are evidence that the sea level has changed over time. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The molecules in a solid are more closely packed than air molecules and moving faster. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" This question is confusing. If the chemical marker stands for a membrane, then it leads to a large molecule in a cell and therefore the answer should be (a). If the chemical marker stands for a lysosome, then it leads to a large molecule in a cell and therefore the answer should be (b). If the chemical marker stands for a polysaccharide, then it leads to a large molecule in a cell and therefore the answer should be (c). If the chemical maker stands for a DNA molecule, then it leads to a large molecule in a cell and therefore the answer should be (a).\n\nQ"], "answer": "(b)"}
+{"output": [" Agricultural runoff is one of the major causes of pollution of fresh water resources. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" If a resource is not renewed, then it must be considered as a nonrenewable resource. The answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" An object's flexibility allows it to bend, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Renewable natural resources can be replenished over time. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The BEST way to make a shadow on a living room wall is to sit close to the wall near a window. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" A plant that needs well-drained soil would grow best in soil that has a large amount of air spaces between the particles. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The most likely negative effect of technological advancements in the logging industry would be the increase in the time needed for transporting wood. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" Photosynthesis produces glucose. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" This is a very specific question, and it depends on the type of triple-beam balance that the student is using. If the student is using a triple-beam balance with the pan hanging on the right side, then the option (c) is the most appropriate. If the student is using a triple-beam balance that has the pan hanging on the left side, then option (d) is the most appropriate. If the student is using any other kind of triple-beam balance, then the student should refer to the teacher for the appropriate option. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The estuary is a mixture of the river and the ocean. So any color that is a mix of the river water and the ocean water would be the best color to represent the estuary. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The sequence is seed -> young plant -> adult plant. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Chemical elements in the same column have the same number of electrons. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Option (2) is the answer.\n\n"], "answer": "(4)"}
+{"output": [" The oceans contain a wider variety of organisms than the continents. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" All of the fossils were found in the same layers of rocks as horse fossils. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" Landslides are the most likely heavy rain causes, so the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Plant height is only passed from parent to offspring. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Plant pollination is the answer. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The opposite of (a) is (b). So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (b) because the mechanical energy is converted to heat.\n\n"], "answer": "(a)"}
+{"output": [" The heavier the cargo, the more friction there will be and the more time it will take to come to a stop. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The student should pour water into the mixture and see if the iron particles are filtered. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Option (b) is the most important safety rule to follow when using chemicals, so the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The report is on heredity, so the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" A wheat plant's seeds are scattered by the wind. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" Ethical concern is most appropriate here, as we are adding genes from one animal to the genome of another. The answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The college could gather parking data, receive input from community meetings, build an additional parking lot, and then gather more parking data. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The arrival of an air mass is the most likely cause for the sudden change in weather. So the answer is (1).\n\n"], "answer": "(1)"}
+{"output": [" Stems help plants grow by supporting them, absorbing water, and absorbing nutrients from the soil. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (c), chloroplast is the only plant-like structure found in volvox but not in euglenas.\n\n"], "answer": "(b)"}
+{"output": [" The habitat of a squirrel is harmful when the trees are cut down to build houses. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Photosynthesis is the process by which plants make their own food from carbon dioxide and water. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Option (b), dew forms on grass when the air temperature is low enough to allow water to condense on the grass. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" All of the options can capture energy from the atmosphere. The answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The Sun is the center of the solar system. The planets in the solar system orbit around the Sun. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The independent variable is the kind of surface on the ramp. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Carbon deposits are found on Earth at impact sites. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" This discovery is an example of how scientific knowledge changes as new fossil evidence is reviewed. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" When two forces are applied with opposite directions, they cancel each other out, resulting in no change in motion. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" An electrical current causes the generation of sound waves. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The inner core is solid because of the extreme pressure. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The ads on television show many popular toys that kids want. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The transitional fossils support the Theory of Biological Evolution. The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The valence electron of phosphorus is 5. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The substance started off as a solid, then it melted and became a liquid. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Fossils are much more likely to appear in high elevations near mountain peaks, so option (a) is not correct. They were probably better adapted to cold climates in their original environment, so option (b) is not correct. The process of fossilization is a destructive one, so option (c) is not correct. Their remains were probably taken from their original location by scavengers, so option (d) is not correct. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The melting point is a temperature, so the unit of measurement is (c), degrees. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The term used to describe what Brianna thinks will happen is a hypothesis. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The metal rod becomes heavier when struck. The other choices are not possible. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Significant destruction of a forest habitat will cause trees to release CO_{2} gas into the atmosphere; CO_{2} gas is a greenhouse gas. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Ferns are most likely to grow in humid areas, so the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The toaster uses electrical energy to power the heating coils. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" A physical change took place when the sulfur reacted with the iron. The iron and sulfur combined to form iron sulfide, which cannot be separated by using a magnet. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The pH level for pure water is 7.0. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (d), sneezing is a learned behavior.\n\n"], "answer": "(a)"}
+{"output": [" Establishing artificial reefs, as expected, increased the recreational and diving opportunities. But it also increased the number of fish and other aquatic organisms. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" Acidic food has a pH less than 7, and is usually neutralized by adding an alkali(base). Base has a pH greater than 7, so the answer is (d).\n\n'''\n\nquestion_list = [\n    q1,\n    q2,\n    q3,\n    q4,\n    q5,\n    q6,\n    q7,\n    q8,\n    q9,\n    q10,\n    q11,\n    q12,\n    q13,\n    q14,\n    q15,\n    q"], "answer": "(d)"}
+{"output": [" Energy is changed from kinetic energy to potential energy when a car pulls up to a hill. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" All galaxies in the universe are irregularly shaped. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (c). Building a dam in a river will prevent seasonal downstream flooding.\n\n"], "answer": "(a)"}
+{"output": [" Option (d), crushing a piece of bread is a chemical change. Option (a) and (b) are physical changes. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" Electrical energy is transformed into light, which is a form of radiant energy. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Option (c) would reduce the population of the cactus moth. It would help to introduce a predator of the cacti to the natural habitat of the cactus moth in the Keys.\n\n"], "answer": "(a)"}
+{"output": [" The speed was always changing, so the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Option (b) is a reusable item that can be used again in another science experiment. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The question that can be answered by this experiment is (c), how much water will make a plant grow tallest.\n\n"], "answer": "(c)"}
+{"output": [" Option (d) tells that the apple is smooth, which is the opposite of bumpy. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The difference between a boron atom with 10 amu and a boron atom with 11 amu is that the boron atom with 11 amu has one more neutron. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The tilt of Earth causes day and night. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The condensation and evaporation of a gas is a result of decreasing the heat energy of the particles. So the answer is (a) or (b).\n\n"], "answer": "(a)"}
+{"output": [" The Moon appears as different shapes during the month.\n\n"], "answer": "(d)"}
+{"output": [" When cities control the amount of pollution that is allowed to come from cars, it most likely helps people by keeping the air cleaner and making it safer for people to travel on the roads by the cars. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The farther objects are from each other, the less gravitational attraction they will have. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (b), amoebas have an absolute requirement for sunlight.\n\n"], "answer": "(a)"}
+{"output": [" A paramecium lives in shallower water than a euglena, so it doesn't need to detect light. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Option (d) is the right answer. The eruption reduced the amount of solar energy reaching Earth, and the following year Boston recorded measurable snow every month of the year. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Thick fur traps heat close to the body, so a mammal with thick fur would be best fit for a cold environment. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Only option (d) is renewable. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The most likely effect of the disease is an increase in the body temperature. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Option (a) is not true, because seas are not evaporated into a solid state; option (b) is not true, because natural gas is not subjected to heat; option (c) is not true, because a metamorphic rock is not melted; option (d) is not true, because plant remains are not decomposed under pressure. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The substances became warm and stretched the bag. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Option (d) is an example of conserving nonrenewable resources. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The color that absorbs the most light is the black color. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Option (c), the direction can change without changing the velocity of an object. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Option (a) is a long-term storage for carbon. Option (c) is a short-term storage for carbon. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Crickets gain energy from eating plants, which are grown in soil. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Volcanic eruptions release heat energy stored in the Earth's core. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Over a long period of time, when a species is overpopulated; there are abundant resources, and when two species are similar. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Since the turtle traveled 40 meters in 30 minutes, then the average speed is 40 m/30 min = 1 m/5 min = 0.02 m/s = 1.2 m/h. So the answer is (b).\n\"\"\"\n\n\"\"\"\n1. (a) boiling\n2. (b) melting\n3. (b) freezing\n4. (a) evaporating\n5. (a) dry palms\n6. (b) wet palms\n7. (c) palms covered with oil\n8. (d) palms covered with lotion\n9. (b) a leg"], "answer": "(c)"}
+{"output": [" Average speed is distance divided by time. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Nick needs a material that will stick to human skin. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Small spiders learn to hide from predators. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" Option (b) will result in a different kind of material being formed. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The athlete will run 4.5 kilometers in 30 minutes. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The production of sperm and egg is the first step in fertilization, so the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The function of a resistor is to control the current. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Wind speed is affected by the pressure of the air. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" As the volume of the beaker is directly proportional to the amount of water present in it, the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Animals have developed the ability to blend into the environment to protect skin from the sun, to remain hidden from predators, and to attract mates. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" A line graph will best communicate the observations because it can show the relationship between the independent variable and the dependent variable. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The homologous chromosomes are separated during metaphase. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The shape of a solid is most likely to be the same as that of a liquid. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The star's life cycle is determined by the amount of energy the star consumes. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" (b) a mutation in a parent's sex cell can cause an offspring to develop a physical trait that neither parent has. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (c) because it is formed by the weathering of other rocks.\n\n"], "answer": "(c)"}
+{"output": [" The statement that copper is an excellent conductor of heat is an opinion about the element copper. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" When there is a reduction of living space, the population increases and competition weakens. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The data can best be organized according to cause of the snowfall. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (b), by cross-pollination.\n\n"], "answer": "(d)"}
+{"output": [" During the portion of the water cycle when the water falls to Earth's surface and becomes precipitation, the water moves out of a land area and ends up in the ocean. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The kangaroo's body temperature lowered by licking their arms is a behavioral adaptation; so the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" If Jordan wants to use the data collected to identify the insect, then he needs to record the name of the insect. If Jordan wants to use the data collected to determine the number of legs on the insect, then he needs to record the size of the insect. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" When the river flow is low and the tide is high, the salt concentration would be lowest near the mouth of the river. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Starlings are aggressive birds that will eat the purple martin's eggs and nestlings. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The rubber band will not change in shape when stretched. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" Option (d). Ammonia is a compound.\n\n"], "answer": "(d)"}
+{"output": [" The best way is to (c) determine the mass of the carbon dioxide and water that is produced. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Option (c) is the only option that involves the dead plant matter. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Space flight was most advanced before the microscope was invented, so the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The freezing point of water is a physical property. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The function of a hammer is to break objects into smaller pieces. So option (a) is the answer.\n\n"], "answer": "(a)"}
+{"output": [" (c) Earthworms loosen soil as they travel through it. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The skin is soft, flexible and pliable. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The main function of chloroplasts is to absorb light energy and make food. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The sound waves are absorbed by the carpet. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Option (c) makes food safer to eat for longer periods. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The plants will be able to survive around leaf-eating animals as they are able to deter leaf-eating animals from eating the plant if the plant has sharp thorns. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" (b) is a mixture, (a), (c), and (d) are all compounds.\n\n"], "answer": "(a)"}
+{"output": [" An atom of S contains one proton more than the atom of Cl. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Since this medication will help a person improve their cholesterol levels, a chemist most likely did not contribute to developing this medication. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The suspension system includes the wheels and axles. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The observation of three caterpillars with black bands means that the winter will be hard. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The force required to push the box will decrease as the mass increases because it requires less force to move a heavier body. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" A river deposits the eroded material at its mouth, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (d). Mutualism is the most cooperative relationship, and predation is the least cooperative relationship.\n\n"], "answer": "(c)"}
+{"output": [" The members of each group must use the same equipment and procedures, otherwise the results will be different. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The most likely cause of the wetness of grass is evaporation, since the streets are dry. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" When air near the ground is warmed by sunlight, the warm air rises, becomes cooler, and mixes with the cooler air. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Organ systems, cells and specialized cells are common to both unicellular and multicellular organisms. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The simple machine takes less force to move something heavy, so it's easier to move something heavy. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Nitrogen, a nutrient, is the most likely nutrient being carried by the runoff and ending in the bay. The answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" Decomposers break down dead plants and animals. Option (c) is the correct answer.\n\n"], "answer": "(c)"}
+{"output": [" The roots of plants can grow in the direction of water and away from the pull of gravity. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (1) since it is a metal to metal contact at the joining edges of the pieces of paper.\n'''\n\n# values of n\nn = [1,2,3,4,5,6,7]\n\nzero = [0,0,0,0,0,0,0]\none = [0,0,0,0,0,0,0]\ntwo = [0,0,0,0,0,0,0]\nthree = [0,0,0,0,0,0,0]\nfour ="], "answer": "(3)"}
+{"output": [" The needle is lining up with Earth's magnetic poles. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Option (b), slow cooling and crystallization is the most likely cause for igneous rock to transform into metamorphic rock. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" The Sun is highest in the sky in the middle of the afternoon; so the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (a) and (b). Both the chloroplast and mitochondrion can store energy from sunlight, and later release it for cells to use.\n\n"], "answer": "(a)"}
+{"output": [" Skin that helps keep people warm is covered in hairs, so the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The atoms recombine to form other elements or return to the environment. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Metamorphosis is the stage which occurs in both the life cycle of a tree and frog. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" A diagram of a river food web would be the best to show how water changes the surface of Earth. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Option (d) is an example of organisms becoming dormant. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The glass broke because it was expanded too rapidly. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Some diseases can cause this condition. So option (b), which is mutation in DNA, is the most likely cause. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The current technological challenge yet to be solved is using DNA to identify a criminal. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The waste molecules are removed from the blood by the lungs. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The northern hemisphere experiences night at the same time as the southern hemisphere. Hence the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The most important thing for the students to wear on the field trip is something to protect their ears. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The step of asking a question is the first step in a scientific investigation. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Windchill is a function of wind speed and temperature. So the wind vane and anemometer are used to measure the wind speed and the thermometer and barometer are used to measure the temperature. So the answers are (b) and (c).\n\n"], "answer": "(d)"}
+{"output": [" If there are more bison than fit to graze, the bison will move to other areas where graze is better. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" If there is more upwelling, the water will be moved away from the coast, which will cause the nutrient concentrations to decrease. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Changing mass will not cause a change in net force, so the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" Crushing a sugar cube into pieces causes the sugar to form a new substance, so the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Looking at the Sun with the naked eye is not safe. It can damage the eyes. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" When a white flower appears in a population, it is most likely due to selective breeding, where the white flower trait is inherited from parents with white flowers. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The shirt looks blue because it absorbs all the white light and turns most of it into blue light. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" When liquid water changes into water vapor, it is evaporated. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Nucleic acid does not have a carbon-nitrogen bond. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" (a) and (d) are characteristics of elements. So the answer is (a) or (d).\n\n"], "answer": "(d)"}
+{"output": [" The activity that wastes a natural resource is the activity that does not recycle a resource. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The digestive system consists of the esophagus, stomach, and intestines. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Atoms are the smallest units of an element. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (c), fish need different amounts of oxygen.\n\n"], "answer": "(c)"}
+{"output": [" The opposing force is from gravity from Earth. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" This is a homozygous recessive phenotype. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The jar contained saltwater, because it spread throughout the room. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The stars are moving through space. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" In the life cycle of a frog, the rear legs grow first, and then the gills disappear. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" All of them benefit each other. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The thickness of soil is likely to decrease as the plant diversity declines. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" Meters is the most appropriate unit because there are 0.3048 meters per foot. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The engineer should order 43 bundles as that is closest to 2000 sq. ft. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" Option (d) is the best question to learn more about erosion, as the type of dirt and the amount of water affect the rate at which the dirt is eroded. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The Moon does not have the ability to give off its own light. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The acceleration of the car is 2 m/s^2 and the mass of the car is 1500 kg, so the net force is 1500*2 = 3000 N. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The star must have moved out of sight. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Option (a) is an opinion, as it is not based on any scientific evidence. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Option (d), chemical energy can travel through a vacuum; all the other options are not possible. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (b), reusable cups are the best way to conserve natural resources.\n\n"], "answer": "(b)"}
+{"output": [" The temperature change (from 3\u00b0C to -2\u00b0C) will most likely cause the water to condense. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Florida will have the most sunlight energy available on June, because it is in the middle of the year. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The scientist should label the new container clearly to prevent it from being mixed with other containers. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Photosynthesis combines sunlight, carbon dioxide, and water to form glucose, a simple sugar. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The frogs will emerge from the mud when the environment becomes humid again, as they need moisture in their environment. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Height is the least likely to be affected by an individual's environment. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The temperature of the magnesium ribbon increased, the ribbon got longer, and the light produced by magnesium ribbon appeared brighter. So the answer is (a) and (c).\n\n"], "answer": "(c)"}
+{"output": [" The statement (a) is true, since propane at room temperature has a definite volume and takes the shape of its container. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Option (c), the inner core is mostly iron. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The weight of the rowers in the boat is the heaviest force working against the boat. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Crust movement is an ongoing, long-term process, so the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The crust in these regions are rich in precious metals; they are heated by nearby magma. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" In the summer, the days are longer than in the winter, so the number of daylight hours will be the greatest during the summer near the equator. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" In order to make a good comparison, Betsy needs to take several samples on several rainy days. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Water evaporation results in the formation of clouds, which in turn results in the formation of rain and snow. These in turn result in the formation of rivers, which eventually result in the formation of land. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The best question to help determine composition of an unknown substance is (b), how valuable is the sample?.\n\n"], "answer": "(d)"}
+{"output": [" When a car tire runs over a can, the atoms of the structure of the can are flattened. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" Density is a chemical property. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" This new evidence is consistent with the idea that all DNA is needed for certain gene functions. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The Sun is the largest, then Jupiter, Earth, then Moon. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (d), having leaves that form at a slow rate decreases the plants ability to survive.\n\n"], "answer": "(d)"}
+{"output": [" The tinted lenses of the sunglasses absorb the UV rays, so the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" Houses are located on streets, so a map showing the locations of houses is best for this analysis. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" In the atmosphere, nitrogen and oxygen are converted to carbon dioxide, water vapor and other trace gases. In the biosphere, plants, animals and microorganisms convert carbon from the atmosphere to nutrients in soil or water. In the hydrosphere, ocean currents and evaporation transfer carbon in the form of dissolved carbon dioxide to the atmosphere. In the lithosphere, weathering of rocks releases carbon in the form of dissolved carbon dioxide in soil water. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The hypothesis states the problem, so the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Tomatoes will die if the temperature is lower than 32\u00b0F for two days in a row. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The least amount of damage to the environment is caused by solar power plants, so the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The Giant Impact Theory proposes that Earth's Moon formed due to the collision of Earth and a Mars-like planet. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Option (c) will most likely be used to study the growth of an insect since the insect is feeding on other insects. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (c), aerobic breakdown of sugars to release energy.\n\n"], "answer": "(d)"}
+{"output": [" Burning of fossil fuels and release of chlorofluorocarbons from aerosol cans are the two factors that most likely decreased the amount of ozone in the atmosphere. So the answers are (c) and (d).\n\n"], "answer": "(d)"}
+{"output": [" Both organisms need energy to survive, so they are similar in that way. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The question that needs to be answered to provide the additional information required to determine the state of the sample is (c).\n\n"], "answer": "(d)"}
+{"output": [" When water droplets disappear from the grass, the water has evaporated. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The best evidence that two groups have developed into different species is that they have different mating habits. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Option (a) is the best example of a sudden change to Earth's surface. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" (a) is a subjective question, which can be answered by a lot of subjective means.\n(b) is a subjective question, which can be answered by a lot of subjective means.\n(c) is a subjective question, which can be answered by a lot of subjective means.\n(d) is a subjective question, which can be answered by a lot of subjective means.\nSo all the answers are subjective.\n\n"], "answer": "(b)"}
+{"output": [" The student can safely start an experiment when the lab teacher tells you to begin the experiment. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Using wood-free paper is good for the environment, because it uses only renewable resources, such as cotton and rice waste instead of trees for paper. So the answer is (a).\n'''\n\ndef get_questions():\n    return questions\n\ndef get_answers():\n    return answers"], "answer": "(c)"}
+{"output": [" The explanation for the slow movement is that the force of friction is less than the force of gravity. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Copper is limited on Earth, so it is not being used as much as other materials. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The wind is more efficient than fossil fuels, so the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The scientist should create a new hypothesis to test an idea. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Option (b), the type of industry found in each state. Nevada has more mining industry, where as Washington has more agriculture-based industry. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" Both a euglena and a paramecium undergo conjugation during reproduction. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The function of an encoder is to translate the voice into an electrical signal. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" When fat makes up half of the polar bear's mass, it helps the polar bear float in water. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Lightning strikes are the most likely cause for a forest fire. The answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Secondary succession is the term that describes the establishment of new community of organisms after a volcano. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" Option (b), depositing the seashells is the process that occurs when wave drops seashells on a beach. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Burning coal will release energy, so the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" Soil is the only part of a pond ecosystem that gives shelter to small fish. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" More sugar will dissolve in a hot solution. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Harsh winters shield the deer from predators, increase the food supplies, eliminate disease and reduce the herd population. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" As the water level goes down, the pressure goes up against the cell walls. As the pressure goes up, sap would flow more quickly. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The ability of a dog to run fast is most likely learned from its environment. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (b). Water recycles dead plant and animal matter by breaking it down into simpler substances and using it as a source of energy and nutrients.\n\n"], "answer": "(b)"}
+{"output": [" The increase in population will cause a decrease in resources. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Codons are used to assemble amino acids for protein synthesis, which is the last step of cell division. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The function of flowers and stems are the same, stems and branches are the same, and branches and leaves are the same. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" When the magnifying power of the microscope is too large, it will make it harder to identify each microorganism. Hence the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" One of the best methods of dealing with this invasive plant is to remove it from the island. The plant should be uprooted from all regions in the island. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" When the number of female warblers returning to the breeding range is limited, fewer young warblers will hatch in the spring. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The sperm cell must combine with many different egg cells, while the egg cell must divide into many separate sperm cells. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (d), because convection and condution are both transfer mechanisms that require the transfer of mass. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" (a) is not an opinion; it is a fact. (b) is an opinion; it is not a fact. (c) is also an opinion; it is not a fact. (d) is an opinion; it is not a fact.\n\n"], "answer": "(b)"}
+{"output": [" Option (b) oxygen and sugar are direct products of photosynthesis. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The time of day when the temperature is measured does not have to remain the same for the test. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The scientists were using the location of the planet to calculate the distance. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Water is essential for organisms to survive in freshwater ponds during the winter months as it can change from a solid directly to a gas. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The life cycle of a butterfly is different from the life cycle of a frog because it has a pupa stage. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Tests on the chemical had different results, hence the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (b), hydrogen is the least likely element to be found in coal.\n\n"], "answer": "(c)"}
+{"output": [" (a) Recommended serving size is not a part of a food nutrition label. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The ability to produce body scents is the most likely adaptation that would help recognize each other. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" All of the options are valid food chains. So the answer is (a), (b), (c), or (d).\n\n"], "answer": "(d)"}
+{"output": [" As upwelling brings nutrient-rich water to the surface, there will be a decrease in surface water temperature. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" Photosynthesis produces oxygen as a by-product. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The boundary between the two climate types is determined by the distance to the nearest mountain range. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" Rain will most likely cause the weathering of rock. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" (a) is the most accurate test; this test is designed to cause the bridge to fail as fast as possible. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Eukarya and Archaea are both classified as Eukaryotic organisms. Both Archaea and Bacteria are both classified as prokaryotic organisms. Eukaryotic organisms have membrane-bound nuclei. Prokaryotic organisms do not have membrane-bound nuclei. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Sound waves and ocean waves both carry medium from one place to another. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" A bar graph is the most appropriate way to present the data. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The dog most likely inherited its weight from the father. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" In a low density, non-reactive gas, it is most likely filled with Neon (group 18). So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Sequoia trees have adapted to survive fires. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Liquid water is the only object that is not opaque. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (c). The baleen whales are evolving into toothed whales.\n\n"], "answer": "(a)"}
+{"output": [" In a total lunar eclipse, the moon blocks the sun from view by covering it with its shadow. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The voltage is the same as the current multiplied by the resistance; the voltage is 3*12=36 V. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The removal of vegetation will cause the stream to be overloaded with sediment. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The Sun is a star made of gases. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Option (a), plants must have appeared on Earth before coal and oil. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" 4.3 light-years is the distance between the Sun and the nearest star. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" This is a question about genetic engineering. The answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The forces will reverse direction, so the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" (1) and (2) are not possible, because they belong to different kingdoms, while (3) and (4) are possible, since they have the same species. So the answer is (3).\n\n"], "answer": "(2)"}
+{"output": [" The order of objects in the solar system is from the smallest to the largest, so the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (a). The closest planet to the Sun is Venus, which has the longest year.\n\n"], "answer": "(d)"}
+{"output": [" The environment influences the tongue rolling ability greatly. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" We have the least control over the water vapor in the air. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Galileo was responsible for describing the Three Laws of Motion. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" The next step after sediment is deposited is to be buried. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The Earth is rotating on its axis, and the student on the other side of Earth is getting ready for bed. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Option (a) should be taken before building a circuit. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Option (a) is not a chemical change because the water is still a liquid after the boiling. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The Moon goes around Earth every day. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" warm-blooded animals have a higher metabolism in warm weather, but this does not mean that warm-blooded animals always have a higher blood temperature. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" All matter takes up space and has a definite shape, these are the two characteristics. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The best way to model the effect of wind on sand dunes is to blow the sand over a pile of sand. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Geothermal power is the most common alternative energy resource. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The correct order of a plant's stages of growth and development is (c).\n\n"], "answer": "(c)"}
+{"output": [" The trees are most likely in different kingdoms, since the leaves and flowers are different. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Gemini is not part of any constellation, so it will not appear in the sky in January. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The most likely cause of flooding is high runoff, low infiltration, and high precipitation. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (b), because red blood cells are formed in the spleen, which is an organ in the immune system. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The dialysys machine is used to remove waste from the blood stream, so it is most likely the excretory system. So the answer is (2).\n\n"], "answer": "(2)"}
+{"output": [" The location of Earth's orbit is what keeps the Earth in orbit. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" When trees are cut down, the soil will be stripped of its minerals. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" As the friction slows the meteor from 35 km/sec to 0.02 km/sec, the final speed of the meteor is: 0.02-0.02=0 km/sec. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The function of all cells is to transmit genetic information to the next generation. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" First, the student should pick up the larger pieces of the slide. Second, the student should inform the teacher of the accident. The student should not attempt to collect the specimen from the slide pieces before informing the teacher of the accident. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The adaptation is that the short stems help the flowers to survive in the extreme arctic climate, by making it very hard for them to be pulled from the ground. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" Metals have a high melting point. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Meteorologists use all three factors to predict tornadoes. So the answer is (a), (b), and (c).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (b), which is the force on the object. The force is equal to mass (kg) multiplied by acceleration (m/s^2). Acceleration is the change in velocity divided by the change in time, so if you divide the change in velocity (m/s) by the change in time (s), you get the acceleration (m/s^2).\n\n"], "answer": "(b)"}
+{"output": [" Option (a) is the best way to find out which food helps a particular plant grow the most.\n'''"], "answer": "(c)"}
+{"output": [" The diameter of the filter-paper disks is not measured because they are not changed during the experiment. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (3). Crushing the sugar cube will release more of the dissolved solids into the water, as solids are more likely to escape the solution than liquids.\n\n"], "answer": "(3)"}
+{"output": [" Option (a), high temperature causes water to evaporate the fastest. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" David needs to add half the original amount of salt to obtain a solution that is half as concentrated. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The duck and the turtle both lay eggs. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The amount of land available would most affect the type of crop grown, as more land is available, more crops can be grown. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The paper cup is not insulated, so the reaction will cause the temperature inside the cup to rise. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The Sun is the center of all the planets in the solar system. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The equation is unbalanced because there is an extra H_{2}O on the right side of the equation. The equation is balanced after adding an extra 2 O_{2} on the right side of the equation. If the equation is balanced, there would be no H_{2}O on the right side of the equation. 2 O_{2} are needed to balance the equation. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" When the brakes (friction) slow down the car, the kinetic energy is stored in the batteries for the electric motor. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (b), precipitation and evaporation.\n\n"], "answer": "(b)"}
+{"output": [" Embryo is the life-cycle stage of both an apple seed and a fertilized egg. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Sally predicted that the electrodes will cause bubbles to be given off at one of the electrodes. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" If the work is done in 45 s, then the work done by Roberta is greater than if the work is done in 30 s but the work done by Mary is still the same. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (a), air quality is not considered by ecologists.\n\n"], "answer": "(c)"}
+{"output": [" The parasites will most likely affect the health of the birds, therefore answer (c) is correct.\n\n"], "answer": "(c)"}
+{"output": [" The answer is (b). The mouse is using an inherited trait to gain an acquired trait.\n\n"], "answer": "(b)"}
+{"output": [" The Sun is a star. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" This is an example of a physical change, because the water evaporated. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The pulling force of other planets is the main reason for Earth's orbit. The answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (d), the white blood cells are the first line of defense.\n\n"], "answer": "(a)"}
+{"output": [" Oxygen, hydrogen, and water are all chemical elements, so the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (b), using a ruler will be the best way to measure the size of leaves.\n\n"], "answer": "(b)"}
+{"output": [" The student should wipe up the spill first, then tell the teacher. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The density of air increases as the meteor enters Earth's atmosphere, so the meteor experiences more friction due to air resistance. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Herbivores and decomposers are also consumers. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" (b) glucose is produced during photosynthesis and is required for cellular respiration. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (3), only one parent is needed for reproduction.\n\n"], "answer": "(1)"}
+{"output": [" An electric fan is only designed to convert electrical energy into heat energy, so the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" Because the carbon dioxide is being absorbed by the solution, the pH of the solution will decrease away from a pH of 7. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The weight of the table salt stays the same because the amount of table salt does not change. Therefore the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" A car moving on a flat surface will create an action-at-a-distance force. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Longer spines caused a genetic change in the fish. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The research team should write a letter to the editor of its local newspaper to make the general public aware of the new species. The answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The speed of radio waves is faster than the speed of infrared waves. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" Since the hydrogen atom loses an electron, the overall charge is -1. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Human cells are capable of attaching sugars to protein molecules. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" A lightbulb produces magnetic energy. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The molecules in ice are less free to move than the molecules in liquid water. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The most important function of the research and development department is to create new products. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Option (b) is not a similar source. Option (c) is the same question, but with different plants. Option (d) is not a similar source. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Both elk and bison can become extinct, but it is unlikely since they have other options to survive. The answer is (b).\n\n\"\"\")\n\ntotal_marks = 0\n\nq1 = input(\"\\nQ1: Which change in the state of water particles causes the particles to become arranged in a fixed position? (a) boiling. (b) melting. (c) freezing. (d) evaporating.\\nA: \")\nif q1.lower() == \"c\":\n    total_marks += 1\n\nq2 = input(\"\\nQ2:"], "answer": "(d)"}
+{"output": [" The bass tapeworms are parasites on the fish, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The scientist needs to have accurate records that show the data are consistent. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The Sun is not the only source of energy for Earth. The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (b), the digestive system is the system that maintains a normal body temperature. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The student was most likely conducting an experiment to see how much sugar could be dissolved in water. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Light waves will change length and direction when they cross from an air medium to a water medium; they will lose energy and dissipate when they cross from a water medium to an air medium. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The average rate of acceleration is -3 m/s^2. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Comparing the properties of (a) and (d), a solid has a definite shape, while a liquid has a definite volume. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Option (d) is a compound. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (a) and (b).\n\n"], "answer": "(d)"}
+{"output": [" The company's mission is to get the furniture to the retail stores, so the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" Bacteria are the only domain of life that cause disease, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The median temperature for the four-month period is 21\u00b0C, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The diversity of a species ensures that the chances of survival under changing conditions are increased. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" An atom is the smallest charged particle that has all the characteristics of a compound (i.e. it is composed of other particles). So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (c), because convergent margins compress and transform rock.\n\n"], "answer": "(a)"}
+{"output": [" All types of energy transfers result in a potential decrease in usable energy. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The ridge will become 100 millimeters wider in 10 years. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" People who sell fish from the wild are more likely to be harmed by the construction of the fish farms. They will have less fish to sell, and thus the price of the fish will go up. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The acceleration of the stone block is equal to the force acting on the block divided by the mass of the block; therefore, the mass of the block is needed to calculate the acceleration of the block. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The vinegar caused the eggshell to dissolve, so the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" 16 plants died because they grew in the hot desert conditions, so the plants are not able to grow in the desert conditions. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The nucleus is made up of more than one particle. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Baby cardinals are unable to fly, so the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Refrigerated refrigerant is a disposal problem unique to hybrid vehicles, so the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" Option (b), water being absorbed by plants is an example of condensation. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" They are trying to understand how the fish are surviving the changing environment and how much weight they have gained. So the answer is (a) and (c).\n\n"], "answer": "(a)"}
+{"output": [" The rate of chemical weathering is dependent on the type of rock being weathered. The answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Plants use water and sugar, they release carbon and oxygen. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Option (a) is not true, as pine trees do not produce more food for the tree, but option (d) is true. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The ozone layer protects the earth from ultraviolet radiation. It is formed in the stratosphere, which is where photosynthetic organisms live. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Available energy increases as trophic levels increase. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The most common geological feature formed in a region where two continental plates collide is a mountain chain. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Sound waves can travel through different types of media. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The best way to find out how long it takes 2 g of salt to dissolve in 50 mL of water is to perform one experiment with three identical trials. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The girl inherited the dominant gene for dimples, so the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" All offspring will have a black fur regardless of the color of its parents. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The functions of the nucleus in the body are similar to the functions of the central nervous system in humans. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Fossils are formed millions of years ago. We have only a small amount of them in the world, and we are using them faster than they can be replenished. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Energy in the object is transferred to the surrounding air, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The function of fruit is to protect seeds, so the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The students should use (a) because copper wire is easy to bend into a circle. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Animals that live under the ground will best compete for resources after the fire. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The main function of a producer is to break down dead plant and animal matter. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" Option (c) is the answer, mineral is the most likely to create a fossil. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Light signals were timed reflecting from the star. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" CO2 has 2 atoms of carbon in it, so the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Option (d), airplane is the most efficient way to transport large amounts of coal from a mine in Kentucky to a power plant in Arizona. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The green color of the snake is most likely an evolutionary adaptation to blend into its environment. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" (1) is true, (3) is false, and (4) is true.\n\n"], "answer": "(1)"}
+{"output": [" Being a thermal insulator means that it will not conduct heat easily; it does not have a low specific heat capacity, so the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Waves carry energy, so the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Moisture from oceans will tend to reduce the condensation of water vapor in the coastal area. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" Reptiles are cold-blooded and nurse young, so (d) is the answer.\n\n"], "answer": "(d)"}
+{"output": [" Cell differentiation is the result of gene expression. Genes can be regulated several ways. For example, small interference RNA molecules (siRNA), prevent gene expression by binding to the product of transcription. How do siRNA molecules silence genes? (a) They bind to ribosomes. (b) They bind to tRNA. (c) They bind to RNA polymerase. (d) They bind to mRNA.\n\n"], "answer": "(d)"}
+{"output": [" The larva stage is when the butterfly spends the most time eating plant leaves, so the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" Option (c) is the most scientific; the others are simply guessing. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" All the light waves are transverse, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Option (1) is not the function of a plant's seed. Option (2) is not the function of a plant's seed. Option (3) is not the function of a plant's seed. The only option left is (4); therefore, the answer is (4).\n\n"], "answer": "(2)"}
+{"output": [" The student should have the samples checked by an instructor to determine what they are. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The gallbladder is not used for the storage of bile anymore after it has been removed, so the person should avoid (c) cheese. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Option (b) is changing from a solid to a liquid, so it is a chemical change. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The worm's number of segments is 33, and the worm has a four-chambered heart. So the answer is (c) and (d).\n\n"], "answer": "(c)"}
+{"output": [" The concerns are practical and ethical. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The new plant will likely compete with the native plants. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" It is important to perform repeated trials of an experiment to avoid making conclusions based on a single trial. The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The comb is made more absorbent, which increases the amount of water that it can hold. This causes the stream of water to bend toward the comb. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Option (a) is not a form of precipitation. The other three are forms of precipitation. The answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" The variation of plant life is the most likely cause of the difference in climate between southern California and southern Nevada. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Insulin helps the cells absorb glucose from the blood. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The gravitational force between the Moon and Earth depends on their masses and how far apart they are. So the answer is (3).\n\n"], "answer": "(3)"}
+{"output": [" The Moon is always closer to the Earth than it is to the Sun, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The oceans tend to make seashore climates colder. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" The nucleus is unique to plant cells and not found in animal cells. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Option (a) is the most flexible, while option (d) is the least flexible. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Tanya needs to gather data using a magnet to make a conclusion. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The mass of a water molecule is 18. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" After the initial increase in population, the populations drop because the food chain broke down. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Water is the least likely to allow electricity to flow, because electricity is most likely to travel through metal, not water. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The units used to measure electrical energy usage are watts (or joules in some cases). So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Photosynthesis produces sugar and oxygen. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The hardest material to bend is a wooden board. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (c). The lizard crawls under a rock for shelter.\n\n"], "answer": "(d)"}
+{"output": [" It is important to determine the materials needed to implement the plan before conducting the research. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Short, strong limbs will provide the organism with the least amount of vertical force and will therefore be the most benefit for the organism. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The problem of using pesticides is creating another problem. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Zinc is used to heal cuts and scratches. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Option (b), it has a chance to reproduce. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The air temperature and the soil temperature would have both decreased at the same rate after sunset. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Corals need chemical energy in order to survive, so the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" When energy is transformed from chemical to mechanical, the amount of useful energy decreases; so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The proton is a part of an atom. So the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" A (c) statement is an example of an inherited trait in a living thing. A child learns to ride a bicycle is not an example of an inherited trait in a living thing.\n\n"], "answer": "(c)"}
+{"output": [" When heat is added to water, the state of water can change from a liquid to a gas. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (b), the plates are separating at El Cajon Pass.\n\n"], "answer": "(a)"}
+{"output": [" The appearance of other new traits in the baby snake will have more influence on whether the trait will become common in the snake population than the presence of thermal energy changing the snake pattern. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The Moon does not rotate on its axis so the same side is always visible from Earth. The answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (a). The main difference is that plastic is made from non-renewable resources while paper is made from renewable resources.\n\n"], "answer": "(a)"}
+{"output": [" The answer is (a) as the presence of sea stars in the tide pool ecosystem can be seen as a leverage to decrease the number of predators (e.g. mussels) and thus increase the diversity of other species in the ecosystem.\n\n"], "answer": "(b)"}
+{"output": [" The answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (d), plants make sugar in the presence of light.\n\n"], "answer": "(d)"}
+{"output": [" Amoebas can change their shape. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The shifting of continents is evidence for the theory of plate tectonics. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Option (b), the collision of tectonic plates is the most likely cause for the formation of the valley. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The sun is highest in the sky during the summer, so the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Heat moves from the ice cube to her hand, not the other way around. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The effect of all the options is to lower the temperature of the coin. The answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" Lunar eclipses take place during a full moon only. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (d), only plant cells can perform photosynthesis.\n\n"], "answer": "(d)"}
+{"output": [" Option (b) breaks a drinking glass by applying large forces on the outside of the glass. The answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" The trees would reduce the force of the wind. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" An orange is too small to represent the Earth, the grape is too small, and the cantaloupe is too large. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The ball will keep moving in the same speed and direction because the force is not changing the direction of the ball. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The best conclusion is that the fish was unable to reproduce. If a fish is unable to reproduce, it will not be found in a desert area. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The sailboat will move towards the east. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Option (b) describes the snowfall more accurately than other options. Option (a) describes a record snowfall, which is not the case here. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" Lightning strikes a building and the energy is transferred to the heat energy. The fire burns down the house and the energy is transferred to the kinetic energy. The electricity heats the oven and the energy is transferred to the potential energy. The wind blows down a sign and the energy is transferred to the thermal energy. So, (c) is the correct answer.\n\n"], "answer": "(c)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" We need to solve the formula below:\n\nP(attach earlobes | mother=attached earlobes) * P(father=attached earlobes) * P(attach earlobes) +\nP(attach earlobes | mother=not attached earlobes) * P(father=attached earlobes) * P(attach earlobes) +\nP(attach earlobes | mother=attached earlobes) * P(father=not attached earlobes) * P(attach earlobes"], "answer": "(b)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Ribosomes are efficient protein producers. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The southward dip in the jet stream will cause the temperatures to be colder than normal. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The reason why Derek should repeat the investigation is to be able to learn why his hypothesis is correct. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The type of soil, amount of water, and color of pots can be different for each group. However, the same light bulb should be used for all plants. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" All of the options would be helpful in separating a mixture of sand and salt. So the answer is (a), (b), (c), and (d).\n\n"], "answer": "(a)"}
+{"output": [" The engineer must increase the height of the support towers to carry double the load. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Option (c), protein is the most likely answer. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Cell phones are used to make and receive calls. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The presence of gravitational force would be the most obvious evidence that the planet has an iron core. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Plants release CO_2 during photosynthesis, while animals release O_2 when they breathe. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The best way to prove the results are reliable is to repeat the same experiment several times. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The magnetic force on the object will decrease when the object is moved away from the magnet. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The eggs are protected from predators by burying them in the sand. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (c), rusting of the metal is a physical change.\n\n"], "answer": "(a)"}
+{"output": [" The best explanation for the arrangement of these volcanoes is that they follow the shape of the adjacent tectonic plates under the sea. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (c), because a pine tree stores energy in its cones. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The oceanic crust is usually thinner, so it will always subduct under the continental crust. The answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" The best sign of glaciers having covered an area is via the rocks being deep underground. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The mass number is the number of protons plus neutrons. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The function of lysozyme is to break the bond of a cell wall molecule. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" An increase in temperature would cause an increase in the oxygen content of ocean water, since the oxygen solubility increases with increasing temperature. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The periodic table is arranged by classification. So the elements are most likely to be in the same period, the answer is (b).\n'''\n\n# List of questions\nquestions = question_string.split(\"\\n\\n\")\n\n# Initialize variables\nscore = 0\npercentage = 0\n\n# Perform test\nfor question in questions:\n    print(\"\\n\" + question)\n    answer = input(\"Enter the letter of the correct answer: \")\n    if answer.lower() in question.split(\"\\n\")[-1].lower():\n        print"], "answer": "(a)"}
+{"output": [" The Astronomical Unit is the average distance from Earth to the sun. What matters is the distance from Earth to other stars. The distance from Earth to other stars is the light year, which is defined as the time it takes for light to travel from the star to Earth. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" Fossilized plants give scientists information about the types of plants that lived long ago. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Circulatory cells are connected to muscle fibers to facilitate control of the muscle; the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The air-travel distance is 980 km, so the average speed of the air-travel is 980/2=490 km/h, which is W. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The pressure at the core is very high, because the Earth's inner core is solid. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" B and C are examples of organisms adapting to survive the cold winter months. Option D is an example of organisms changing their environment to survive; so it is incorrect. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The correct procedure is to neutralize the solution with a base. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Options (a) and (d) do not contribute to global warming. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The main energy source for ocean currents is tidal effects of the Moon. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Option (c) is correct. A solution is a homogeneous substance made by dissolving a solid in a liquid. A mixture is a substance that contains two or more different substances.\n\n"], "answer": "(d)"}
+{"output": [" The scientific process of designing a model to test a hypothesis is most likely would have disproved the hypothesis. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Option (a) will be the case at the end of the experiment since the students will be using the same amount of water and ice. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The Sun appears to be larger because it is much closer to Earth than other stars, so it has a greater apparent size. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Based on the observation of membrane-bound structures, the cell can only be classified as a eukaryote. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Chameleons can be easily seen, so the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" In the end of the Ice Age, the Earth's climate changed and the giant sloths couldn't find enough food. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Option (a) is not correct because wind speeds increase with height, not distance. Option (c) is not correct because humidity increases with temperature, not distance. Option (d) is not correct because the temperature of the ocean is not fairly constant. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Fresh water is found in the atmosphere, rivers and lakes. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" Nitrogen is a part of photosynthesis. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Coal is the only energy source that is not easily replaced in nature. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Birds are warm-blooded and they maintain a constant body temperature. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Option (c), the wobbles in the brightness of a star. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Option (d), squeezing the juice from fruit is a physical change. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" A disease is likely to kill off a large part of the deer population, which will cause the population to decrease. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Option (a) is not related to the density of the mangrove; option (b) is also not related to the density of the mangrove. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Option (b), the trait allows crops to be grown in drier climates, which is what farmers need. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Plastics do not biodegrade, so they tend to accumulate in the environment. Using less plastic bottles would reduce pollution. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" Ribosomes are used to translate RNA molecules into proteins. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Talons are a behavioral adaptation that help hawks to capture prey. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The question is most likely about the volume of the liquid because the volume of the liquid was increased by 50 mL. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (b). The shape of the orbit is determined by the rotational velocity of the planet.\n\n"], "answer": "(d)"}
+{"output": [" Acid rain is the most likely cause of the decrease in the thickness of the ozone layer. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The ball changed direction, because the pushing stopped. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Option (d) is the environmental benefit of converting to solar energy. So the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The light waves travel through air faster than sound waves travel through solid material. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" When gas (air) changes to liquid, the gas is condensed into a cloud. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" (d) succession is the most likely cause for a mutation becoming an adaptation. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The object with the greatest force is the one with the greatest mass. In this case, the object with the greatest mass is (1). So the answer is (1).\n\n"], "answer": "(2)"}
+{"output": [" Photosynthesis removes carbon from the atmosphere, while respiration adds carbon to the atmosphere. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The student has made an observation. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" If the atom has more protons than electrons, then it is positively charged. If the atom has more electrons than protons, then it is negatively charged. So the answer is (c) (radioactive).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Radio waves are used for tracking animals because they are invisible to the human eye. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" Option (b), the parents are of a different species, but of the same genus, so the offspring will not be able to reproduce. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The scientist is summarizing the data in an investigation, hence the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The mitochondrion is the powerhouse of the cell, it converts sunlight to energy; so the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" Human population increases the demand for natural resources. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" Rust is formed on the iron fence by the oxidation of the metal, which is a physical change. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" Both move with pseudopodia. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" Option (c), they both have a rocky crust that features mountains. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" If a force is increased by a factor of 4, the acceleration will be increased by a factor of 2. So the answer is (a).\n\n"], "answer": "(b)"}
+{"output": [" Mechanical energy can be used to cut wood into smaller pieces with a saw. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Whole grains are high in vitamin D, so the answer is (d).\n\n"], "answer": "(b)"}
+{"output": [" Option (a) is not a question that can be answered at the end of a month, since the seeds were planted in identical pots filled with the same kind and amount of soil; there will be no difference in growth. Option (b) is not a question that can be answered at the end of a month, since seeds grew in the same place; there will be no difference in growth. Option (c) is not a question that can can be answered at the end of a month, since seeds were planted in the same pots filled with the same kind and amount of soil; there will be no difference in growth. Option"], "answer": "(b)"}
+{"output": [" The air mass is moving from the tropics towards the cooler northern hemisphere, so it is likely to be cool and dry. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The students should have recorded the results of their experiment in a data table. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Lab coats are worn during laboratory experiments. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" The sex cells of goldfish only contain 23 chromosomes. So the answer is (1).\n\n"], "answer": "(2)"}
+{"output": [" The rain is most likely to fall where the air temperature is cold and the relative humidity is high. So the answer is (c) and (d).\n\n"], "answer": "(b)"}
+{"output": [" Heat is transferred to the moon by the sun. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The monarch butterfly caterpillar pupates in the ground. If it is found, the answer is (c). So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" The energy travels at a speed of 186,000 miles per hour. So 8 minutes is the amount of time it will take the Sun's energy to reach Mars. So the answer is option (b).\n\n"], "answer": "(c)"}
+{"output": [" Golden eagles build their nests on cliffs or rock outcroppings.  So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" Option (c), range between 7-9 is most likely to include acid rain. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" The appliances are connected in parallel. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Option (b) uses gravitational energy to make electricity; Options (a) and (c) do not use gravitational energy to make electricity. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" An exothermic reaction is a process in which the temperature of the system increases because the system gives off energy. So the answer is (b), the refrigerator.\n\n"], "answer": "(a)"}
+{"output": [" The function of a switch is to start and stop the flow of a current. So the answer is (b).\n\n"], "answer": "(c)"}
+{"output": [" The student should report the accident to the teacher. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" When two balloons are brought close together, the charges will repel. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Water is essential for life on Earth. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" An adaptation that resulted from habitat destruction is most likely to be (b), which is a rabbit's fur turning white in the winter.\n\n"], "answer": "(a)"}
+{"output": [" The properties of hydrogen will be better understood and the technology will be used to supply the environment with oxygen. So the answer is (a) and (d).\n\n"], "answer": "(b)"}
+{"output": [" Since nanotubes can be created from recycled plastic, they can be used as components of batteries and this approach can improve existing products. So the answer is (b).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (b) because in order for a thunderstorm and a hurricane to form, there needs to be a high-pressure area created by air masses combining.\n\n"], "answer": "(d)"}
+{"output": [" The thermometer should read 0\u00b0C. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The students more likely poured the mixture through the filter paper. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Gold is used extensively in the production of computers and electronics, and is not renewable, so the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" Evaporation occurs at the HIGHEST rate at the surface of the water body. So the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" All cells release sugar. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" The idea of using ocean water is not a good idea as it is too salty for plants grown on land. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The use of television has improved safety by (b) explaining how to avoid pressure from commercials, so the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" The Moon is much smaller than Earth, so there is no gravity to hold the water and oxygen on the Moon. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" The lithium was dissolved by the water and dissolved gases were released. So the answer is (b) and (c).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" Option (a) and (b) are both changes from a solid to a gas. Option (c) is a change from a solid to a liquid. So the answer is (a) or (b).\n\n"], "answer": "(d)"}
+{"output": [" Option (b), energy is transferred from the leaf to the caterpillar, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The effect of genetic drift is that new populations will diverge from the original population. In other words, genetic drift causes the presence and distribution of alleles to diverge. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The Moon and Earth do not have much in common. So the answer is (c).\n\n"], "answer": "(b)"}
+{"output": [" The light microscope with 100X magnification will be the best tool for the investigation because it will allow the student to see the size of the particles. So the answer is (c).\n\n"], "answer": "(d)"}
+{"output": [" A customer would buy a bus from company X if it is cheaper than company Y's products. So the answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" B is the important safety rule to follow. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(c)"}
+{"output": [" All stages of the butterfly's life cycle need the same things; it doesn't matter if the item is in (a), (b), (c), or (d). So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The ingredients cannot be separated out of the mix, so the answer is (d).\n\n"], "answer": "(c)"}
+{"output": [" The best example of a physical change is when a nail rusts. The answer is (4).\n\n"], "answer": "(3)"}
+{"output": [" The boundary between two oceanic plates is divergent, so the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" The Sun is closer to Earth in the summer than in the winter. So the answer is (a).\n\n"], "answer": "(d)"}
+{"output": [" When the wavelength is doubled, the period of the wave will be halved. So the answer is (b).\n\n"], "answer": "(d)"}
+{"output": [" Both are waves of the same frequency, so the answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" Carpooling is the best way to conserve gasoline.\n\n"], "answer": "(c)"}
+{"output": [" The marketing department is in charge of advertising. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" Option (b), transportation is one of the causes of an epidemic turning into a pandemic. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The process that took place after the glaciers melted was a change in habitat that allowed grasslands and forests to develop. The answer is (d).\n\n"], "answer": "(a)"}
+{"output": [" The study is biased because it excluded women from the study. So the answer is (c).\n\n"], "answer": "(c)"}
+{"output": [" On the left side of the colon, the answer is (b), as it is inherited from the parents, which are the parents of the parents. So the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" The answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" Records help to find mistakes made in the investigation. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The Sun has completed one revolution around the Earth, so the answer is (b).\n\n"], "answer": "(b)"}
+{"output": [" Both waves have energy, both waves travel in vacuums, and both waves are caused by vibrations. So the answer is (c).\n\n"], "answer": "(a)"}
+{"output": [" When a cat is scared, the hairs on it's back stand up. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The experiment should be done by testing three sugar cubes, one each in three different water temperatures. So the answer is (a).\n\n"], "answer": "(a)"}
+{"output": [" The subduction zone is the boundary between continental and oceanic crust. The continental crust is higher than the oceanic crust, so the continental crust is the land and the oceanic crust is the sea. So the answer is (d).\n\n"], "answer": "(d)"}
+{"output": [" The ball is bouncing upward because of the floor. So the answer is (a).\n\n"], "answer": "(a)"}
